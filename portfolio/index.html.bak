@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="Author" description="Saugat Pahari"/>
+		<meta name="Content" description="Portfolio Website"/>
+		<link rel="stylesheet" href="css/gumby.css">
+		<link rel="stylesheet" href="css/custom.css">
+		<script src="js/libs/modernizr-2.6.2.min.js"></script>
+		<script src="js/libs/jquery-1.10.1.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine5/style.css" />
+	<!--script type="text/javascript" src="engine5/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+	<body>
+		<script gumby-touch="js/libs" src="js/libs/gumby.js"></script>
+		<script src="js/libs/ui/gumby.retina.js"></script>
+		<script src="js/libs/ui/gumby.fixed.js"></script>
+		<script src="js/libs/ui/gumby.skiplink.js"></script>
+		<script src="js/libs/ui/gumby.toggleswitch.js"></script>
+		<script src="js/libs/ui/gumby.checkbox.js"></script>
+		<script src="js/libs/ui/gumby.radiobtn.js"></script>
+		<script src="js/libs/ui/gumby.tabs.js"></script>
+		<script src="js/libs/ui/gumby.navbar.js"></script>
+		<script src="js/libs/ui/jquery.validation.js"></script>
+		<script src="js/libs/gumby.init.js"></script>
+		<script src="js/plugins.js"></script>
+		<script src="js/main.js"></script>
+		<article>
+			<div>
+				<div class="main">
+					<header>
+						<div class="navbar">
+							<ul>
+								<li><a href="#">Home</a><hr></li>
+								<li><a href="#">About</a></li>
+								<li><a href="#">Exercise</a>
+									<div class="dropdown">
+										<ul>
+											<li><a href="#">HTML</a></li>
+											<li><a href="#">CSS</a></li>
+										</ul>
+									</div>
+								</li>
+								<li><a href="#">Contact</a></li>
+								<li><a href="#">CV</a></li>
+								</li>
+							<ul>
+						</div>
+					</header>
+					<section>
+						
+					</section>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container5">
+	<div class="ws_images"><ul>
+		<li><img src="data5/images/laptop_cup_glasses_plant_114948_1024x768.jpg" alt="laptop_cup_glasses_plant_114948_1024x768" title="laptop_cup_glasses_plant_114948_1024x768" id="wows5_0"/></li>
+		<li><a href="http://wowslider.com/vi"><img src="data5/images/laptop_macbook_iphone_apple_journal_glasses_113949_1024x768.jpg" alt="slider" title="laptop_macbook_iphone_apple_journal_glasses_113949_1024x768" id="wows5_1"/></a></li>
+		<li><img src="data5/images/laptop_smartphone_technology_110789_1024x768.jpg" alt="laptop_smartphone_technology_110789_1024x768" title="laptop_smartphone_technology_110789_1024x768" id="wows5_2"/></li>
+	</ul></div>
+	<div class="ws_thumbs">
+<div>
+		<a href="#" title="laptop_cup_glasses_plant_114948_1024x768"><img src="data5/tooltips/laptop_cup_glasses_plant_114948_1024x768.jpg" alt="" /></a>
+		<a href="#" title="laptop_macbook_iphone_apple_journal_glasses_113949_1024x768"><img src="data5/tooltips/laptop_macbook_iphone_apple_journal_glasses_113949_1024x768.jpg" alt="" /></a>
+		<a href="#" title="laptop_smartphone_technology_110789_1024x768"><img src="data5/tooltips/laptop_smartphone_technology_110789_1024x768.jpg" alt="" /></a>
+	</div>
+</div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wowslider.com</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine5/wowslider.js"></script>
+	<script type="text/javascript" src="engine5/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+					<footer>
+						<hr>	
+					</footer>
+				</div>
+			</div>
+		</article>
+	</body>
+</html>

@@ -1,0 +1,115 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+#banner{
+	margin-top:1px;
+	width:100%;
+	height: 80%;
+	background-image: url("../images/img2.jpg");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+	display:table;
+}
+
+ .vertical-center{
+	display:table-cell;
+	vertical-align:middle;
+	
+}
+
+#banner h2{
+	font-size:60px;
+	font-weight:900;
+	color:#fff;
+	text-align:center;
+	text-shadow:2px 2px 8px #111;
+	line-height: 70px;
+}
+
+
+
+
+.landing{
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.imageclass{
+	margin-top: 30px ;
+	margin-left: 10px ;
+	width:30%;
+	height:350px;
+}
+
+#second{
+	height:cover;
+	margin-left: 4%;
+	width:90%;
+	background-color:lightgrey;
+	margin-top: 5%;
+	padding: 3%;
+}
+#nav1{
+	position:relative;
+
+}
+
+
+
+.navbar ul li a:hover{
+	color:red !important;
+}
+
+.navbar ul li a{
+	color:  #F7DC6F!important;
+}
+.navbar ul li ul li a{
+	color:  #F7DC6F!important;
+	background-color: grey;
+}
+
+h1{color:#7B241C;font-size:42px;font-weight:bold}
+h2{color:#7B241C;font-size:32px;font-weight:bold}
+h3{color:black;font-size:24px;font-weight:bold;}
+p{color:black!important ;font-size:18px;}
+ul{list-style-type: circle}
+li{color:grey;font-size:16px;font-weight:bold}
+
+a{color:black;}
+
+.field{
+	width:30%;
+}
+
+.footer{
+	margin-top: 3%;
+	background-image: url("../images/footer.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.mybutton{
+	padding: 0 20px !important;
+	color:white !important;
+}
+
+h4{
+	color:black;
+}
+
+.chubkins{
+	background-image: url("../images/footer.jpg");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+}
+
+.section{
+	margin-top: 13%;
+	margin-left: 35%;
+	margin-bottom: 10%;
+	height:20%;
+}
